@@ -1,0 +1,10 @@
+loop_until 124 when 1/0 I_Amir_I I_9_I I__i I_Amir_I 123 nope loop make call
+=
++
+*
+-
+->
+%
+>
+<
+
